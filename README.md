@@ -8,5 +8,5 @@ Demo for the <a href="http://www.codiblog.com/2016/02/create-full-screen-preload
 Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is.
 
 #Misc
-Follow codiblog: <a href="http://facebook.com/codiblog">Facebook</a>, <a href="http://twitter.com/codiblog">Twitter</a>, <a href="http://plus.google.com/+codiblog">Google Plus</a>, <a href="https://www.youtube.com/channel/UCr4WBIcmHa16xxLSyc7_YaQ">Youtube</a>, <a href="https://github.com/codiblog">Github</a>, <a href="https://www.pinterest.com/codiblog/">Pinterest</a><br/>
+Follow codiblog: <a href="http://facebook.com/codiblog">Facebook</a>, <a href="http://twitter.com/codiblog">Twitter</a>, <a href="http://plus.google.com/+codiblog">Google Plus</a>, <a href="https://www.youtube.com/channel/UCr4WBIcmHa16xxLSyc7_YaQ">Youtube</a>, <a href="https://github.com/codiblog">Github</a>, <a href="https://www.pinterest.com/codiblog/">Pinterest</a>, <a href="http://themeforest.net/user/themeratio?ref=ThemeRatio">Themeforest</a><br/>
 © <a href="http://www.codiblog.com">Codiblog</a>
